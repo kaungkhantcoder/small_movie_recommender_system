@@ -1,0 +1,4 @@
+similarity.pkl
+*.ipynb_checkpoints/  # Exclude Jupyter Notebook checkpoints
+__pycache__/         # Exclude Python bytecode files
+*.pkl               # Optionally exclude all pickle files
